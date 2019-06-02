@@ -1,1 +1,1 @@
-# 15_5_ThisSelfPulapkiJavascriptu
+# 15_4_ProgramowanieObiektowewJS
